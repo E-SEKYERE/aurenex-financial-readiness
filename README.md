@@ -17,15 +17,15 @@ to hire, fund, and sustain its growth plan without running into a cash shortfall
 ## ✨ Key Features
 - Fully linked **3-statement model** in Excel — formula-driven, not hardcoded, with a single Assumptions tab controlling every scenario
 - Executive KPI strip: FY Revenue, FY EBITDA, FY CAPEX, funding raised, break-even month, liquidity risk months
-- EBITDA bridge (waterfall): Revenue → Payroll → Other OPEX → EBITDA
-- CAPEX coverage waterfall: monthly free cash flow after CAPEX, flagging any month where spend outpaces cash generation
+- EBITDA bridge: Revenue → Payroll → Other OPEX → EBITDA
+- CAPEX coverage: monthly free cash flow after CAPEX, flagging any month where spend outpaces cash generation
 - Funding mix and FY cost composition as stacked bars
 - Cumulative CAPEX vs. cumulative EBITDA payback trend
 - Live Worst / Base / Best scenario toggle recalculating every KPI and chart
 - 12-month liquidity readiness timeline highlighting the one flagged risk month
 
 ## 📂 Data Source
-Synthetic dataset built to simulate a mid-sized B2B SaaS company's HR and finance systems
+ Dataset built to simulate a mid-sized B2B SaaS company's HR and finance systems
 (Employee/HR data, payroll, recruitment cost, CAPEX, financing, and a 12-month financial
 forecast for FY2026). 
 
@@ -55,11 +55,10 @@ forecast for FY2026).
 ## 📸 Screenshots
 
 ### 🧮 Financial Model (Excel)
-The build behind the dashboard — full 3-statement linkage, dynamic assumptions, and
-formula-driven scenario switching.
 
 **3 Statement Model**
-![3 Statement Model](screenshots/three_statement_model.png)
+![3 Statement Model](<img width="1280" height="720" alt="3 statement -financial-model png" src="https://github.com/user-attachments/assets/e22af818-4118-42bc-9eca-889f13278b58" />
+)
 
 **Formula View** — Income Statement / EBITDA build shown with formulas visible (`Ctrl` + `` ` ``)
 ![Formula View](screenshots/formula_view.png)
@@ -71,7 +70,7 @@ formula-driven scenario switching.
 ![Dashboard](screenshots/dashboard_overview.png)
 
 ### EBITDA Bridge & CAPEX Coverage
-![Waterfall Charts](screenshots/waterfall_charts.png)
+!(screenshots/waterfall_charts.png)
 
 ### Scenario Comparison
 ![Scenario Comparison](screenshots/scenario_comparison.png)
