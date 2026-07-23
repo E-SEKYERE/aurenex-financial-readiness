@@ -57,8 +57,8 @@ forecast for FY2026).
 ### 🧮 Financial Model (Excel)
 
 **3 Statement Model**
-![3 Statement Model](<img width="1280" height="720" alt="3 statement -financial-model png" src="https://github.com/user-attachments/assets/e22af818-4118-42bc-9eca-889f13278b58" />
-)
+![3 Statement Model](https://github.com/user-attachments/assets/e22af818-4118-42bc-9eca-889f13278b58)
+
 
 **Formula View** — Income Statement / EBITDA build shown with formulas visible (`Ctrl` + `` ` ``)
 ![Formula View](screenshots/formula_view.png)
