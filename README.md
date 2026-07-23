@@ -11,7 +11,7 @@ to hire, fund, and sustain its growth plan without running into a cash shortfall
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** — 3-statement model, financing & funding analysis, CAPEX schedule, OPEX ratio analysis, HR analyst report
-- **Power BI–style interactive dashboard** (built as an HTML/JS report, structured for a native Power BI rebuild) — waterfall, stacked/clustered bar, and line visuals
+- **Power BI** 
 - **Scenario modelling** — Worst / Base / Best case toggles across revenue, payroll, and CAPEX assumptions
 
 ## ✨ Key Features
@@ -27,7 +27,7 @@ to hire, fund, and sustain its growth plan without running into a cash shortfall
 ## 📂 Data Source
 Synthetic dataset built to simulate a mid-sized B2B SaaS company's HR and finance systems
 (Employee/HR data, payroll, recruitment cost, CAPEX, financing, and a 12-month financial
-forecast for FY2026). All figures are for demonstration purposes only.
+forecast for FY2026). 
 
 ## 📈 Key Insights
 - **Break-even holds at February 2026 across every scenario** — even under the Worst case
@@ -51,12 +51,6 @@ forecast for FY2026). All figures are for demonstration purposes only.
 - Scenario spread is wide but directionally consistent: FY EBITDA ranges from **£5.7m
   (Worst)** to **£18.3m (Best)** against a **£12.7m Base case**, with CAPEX moving only
   modestly (£420k–£462k) across scenarios.
-
-## 🚀 How to Use
-1. Download the Excel workbook (`DATASET.xlsx`) and open in Microsoft Excel (2016 or later)
-2. Review the **Assumptions** tab to see the scenario drivers behind Revenue, Payroll and CAPEX
-3. Open `aurenex_executive_dashboard.html` in any browser for the interactive Power BI–style dashboard
-4. Use the **Scenario** slicer (Worst / Base / Best) to see every KPI and chart recalculate live
 
 ## 📸 Screenshots
 
