@@ -55,10 +55,11 @@ forecast for FY2026).
 ### 🧮 Financial Model (Excel)
 ![3 Statement Model](https://github.com/user-attachments/assets/e22af818-4118-42bc-9eca-889f13278b58)
 **Formula View** — Income Statement / EBITDA build shown with formulas visible.
+
 ![Formula View](https://github.com/user-attachments/assets/5092005f-b12a-4959-b68f-7ca680d71acb)
 
 **Assumptions Tab** — the single input tab driving Revenue, Payroll and CAPEX across all three scenarios
-![Assumptions](screenshots/assumptions.png)
+![Assumptions](https://github.com/user-attachments/assets/b899bf32-28cf-4cfe-95b5-6913b16eeacd)
 
 ### Executive Dashboard
 ![Dashboard](screenshots/dashboard_overview.png)
