@@ -62,7 +62,7 @@ forecast for FY2026).
 ![Assumptions](https://github.com/user-attachments/assets/b899bf32-28cf-4cfe-95b5-6913b16eeacd)
 
 ### Executive Dashboard
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](https://github.com/user-attachments/assets/6103cce5-b95d-411f-8682-d7889ada52a6)
 
 ### EBITDA Bridge & CAPEX Coverage
 !(screenshots/waterfall_charts.png)
